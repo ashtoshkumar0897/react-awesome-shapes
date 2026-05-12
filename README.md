@@ -19,9 +19,7 @@
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
 
-<p align="center">Loved the project? Please consider <a href="https://github.com/sponsors/ashutosh1919">donating</a> to help it improve!</p>
-<p align="center">Consider following <a href="https://youtube.com/c/DevSense19">DevSense</a> on YouTube.</p>
-<p align="center">If you want to discuss about something, then you can ask on official <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
+
 
 <p align="center"> 
     <a href="https://awesomeshapes.netlify.app/" target="_blank">
