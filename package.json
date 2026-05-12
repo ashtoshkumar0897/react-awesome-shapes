@@ -15,7 +15,7 @@
     "node": "^16.14.0",
     "npm": "^8.3.1"
   },
-  "author": "Ashutosh Hathidara <ashutoshhathidara98@gmail.com> (https://ashutoshhathidara.com/)",
+  "author": "Ashutosh kumar <ashutoshkumar0897@gmail.com> ",
   "keywords": [
     "react-shapes",
     "react-awesome-shapes",
@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashutosh1919/react-awesome-shapes.git"
+    "url": "git+https://github.com/ashtoshkumar0897/react-awesome-shapes"
   },
   "dependencies": {
     "@emotion/react": "^11.7.1",
